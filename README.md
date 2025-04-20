@@ -6,6 +6,11 @@ Usage:
 ```bash
 python .\cdndown.py <argument> [url]
 ```
+## Package downloading example:
+```bash
+python .\cdndown.py https://github.com/Eduardo7881/discordhook.py/raw/refs/heads/main/discordhook.zip
+```
+Downloads my `discordhook.py` library
 
 # How it works?
 1. It downloads the URL .zip target file
